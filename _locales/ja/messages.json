@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "YouTube スピード コントローラー",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "カスタム値、キーボード ショートカット、画面上のオーバーレイを使用して YouTube の再生速度を制御します。",
+    "description": "Extension description"
+  }
+}

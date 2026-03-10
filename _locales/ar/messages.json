@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "يوتيوب تحكم السرعة",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "تحكم في سرعة تشغيل YouTube باستخدام القيم المخصصة واختصارات لوحة المفاتيح والتراكب الذي يظهر على الشاشة.",
+    "description": "Extension description"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "YouTube ವೇಗ ನಿಯಂತ್ರಕ",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "ಕಸ್ಟಮ್ ಮೌಲ್ಯಗಳು, ಕೀಬೋರ್ಡ್ ಶಾರ್ಟ್‌ಕಟ್‌ಗಳು ಮತ್ತು ಆನ್-ಸ್ಕ್ರೀನ್ ಓವರ್‌ಲೇ ಮೂಲಕ YouTube ಪ್ಲೇಬ್ಯಾಕ್ ವೇಗವನ್ನು ನಿಯಂತ್ರಿಸಿ.",
+    "description": "Extension description"
+  }
+}

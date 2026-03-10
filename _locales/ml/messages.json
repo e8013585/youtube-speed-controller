@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "YouTube സ്പീഡ് കൺട്രോളർ",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "ഇഷ്‌ടാനുസൃത മൂല്യങ്ങൾ, കീബോർഡ് കുറുക്കുവഴികൾ, ഓൺ-സ്‌ക്രീൻ ഓവർലേ എന്നിവ ഉപയോഗിച്ച് YouTube പ്ലേബാക്ക് വേഗത നിയന്ത്രിക്കുക.",
+    "description": "Extension description"
+  }
+}

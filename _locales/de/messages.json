@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "YouTube-Geschwindigkeitsregler",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Steuern Sie die YouTube-Wiedergabegeschwindigkeit mit benutzerdefinierten Werten, Tastaturkürzeln und Bildschirmüberlagerungen.",
+    "description": "Extension description"
+  }
+}

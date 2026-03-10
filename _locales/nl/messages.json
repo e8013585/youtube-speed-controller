@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "YouTube-snelheidsregelaar",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Beheer de afspeelsnelheid van YouTube met aangepaste waarden, sneltoetsen en schermoverlay.",
+    "description": "Extension description"
+  }
+}

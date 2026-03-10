@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Controler de viteză YouTube",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Controlați viteza de redare YouTube cu valori personalizate, comenzi rapide de la tastatură și suprapunere pe ecran.",
+    "description": "Extension description"
+  }
+}

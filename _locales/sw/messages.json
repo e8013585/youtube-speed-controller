@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Kidhibiti Kasi cha YouTube",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Dhibiti kasi ya uchezaji wa YouTube kwa thamani maalum, mikato ya kibodi na uwekeleaji kwenye skrini.",
+    "description": "Extension description"
+  }
+}

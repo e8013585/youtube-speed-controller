@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "YouTube krmilnik hitrosti",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Nadzorujte hitrost predvajanja YouTube z vrednostmi po meri, bližnjicami na tipkovnici in prekrivanjem na zaslonu.",
+    "description": "Extension description"
+  }
+}

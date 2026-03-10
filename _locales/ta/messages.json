@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "YouTube வேகக் கட்டுப்படுத்தி",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "தனிப்பயன் மதிப்புகள், கீபோர்டு ஷார்ட்கட்கள் மற்றும் ஆன்-ஸ்கிரீன் ஓவர்லே மூலம் YouTube பிளேபேக் வேகத்தைக் கட்டுப்படுத்தவும்.",
+    "description": "Extension description"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Контролер швидкості YouTube",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Керуйте швидкістю відтворення YouTube за допомогою власних значень, комбінацій клавіш і накладання на екрані.",
+    "description": "Extension description"
+  }
+}

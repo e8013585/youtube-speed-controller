@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "YouTube 速度控制器",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "使用自定义值、键盘快捷键和屏幕覆盖来控制 YouTube 播放速度。",
+    "description": "Extension description"
+  }
+}

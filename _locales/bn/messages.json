@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "ইউটিউব স্পিড কন্ট্রোলার",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "কাস্টম মান, কীবোর্ড শর্টকাট এবং অন-স্ক্রিন ওভারলে সহ YouTube প্লেব্যাকের গতি নিয়ন্ত্রণ করুন।",
+    "description": "Extension description"
+  }
+}

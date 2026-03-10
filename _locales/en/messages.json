@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "YouTube Speed Controller",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Control YouTube playback speed with custom values, keyboard shortcuts, and on-screen overlay.",
+    "description": "Extension description"
+  }
+}

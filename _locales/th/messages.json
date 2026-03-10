@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "ตัวควบคุมความเร็วของ YouTube",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "ควบคุมความเร็วในการเล่น YouTube ด้วยค่าที่กำหนดเอง แป้นพิมพ์ลัด และการซ้อนทับบนหน้าจอ",
+    "description": "Extension description"
+  }
+}

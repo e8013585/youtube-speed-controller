@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Controlador de velocidad de YouTube",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Controle la velocidad de reproducción de YouTube con valores personalizados, atajos de teclado y superposiciones en pantalla.",
+    "description": "Extension description"
+  }
+}

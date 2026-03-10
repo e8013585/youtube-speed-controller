@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "YouTuben nopeudensäädin",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Hallitse YouTuben toistonopeutta mukautetuilla arvoilla, pikanäppäimillä ja näytön peittokuvalla.",
+    "description": "Extension description"
+  }
+}

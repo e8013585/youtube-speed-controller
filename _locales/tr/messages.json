@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "YouTube Hız Kontrol Cihazı",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Özel değerler, klavye kısayolları ve ekran üzeri paylaşımla YouTube oynatma hızını kontrol edin.",
+    "description": "Extension description"
+  }
+}

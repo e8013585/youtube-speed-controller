@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "ИоуТубе контролер брзине",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Контролишите брзину репродукције на ИоуТубе-у помоћу прилагођених вредности, пречица на тастатури и преклапања на екрану.",
+    "description": "Extension description"
+  }
+}

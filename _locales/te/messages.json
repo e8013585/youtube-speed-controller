@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "YouTube స్పీడ్ కంట్రోలర్",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "అనుకూల విలువలు, కీబోర్డ్ సత్వరమార్గాలు మరియు ఆన్-స్క్రీన్ ఓవర్‌లేతో YouTube ప్లేబ్యాక్ వేగాన్ని నియంత్రించండి.",
+    "description": "Extension description"
+  }
+}

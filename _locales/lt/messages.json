@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "„YouTube“ greičio valdiklis",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Valdykite „YouTube“ atkūrimo greitį naudodami tinkintas vertes, sparčiuosius klavišus ir ekrano perdangą.",
+    "description": "Extension description"
+  }
+}

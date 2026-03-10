@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Bộ điều khiển tốc độ YouTube",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Kiểm soát tốc độ phát lại YouTube bằng các giá trị tùy chỉnh, phím tắt và lớp phủ trên màn hình.",
+    "description": "Extension description"
+  }
+}

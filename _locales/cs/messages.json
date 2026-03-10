@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Ovladač rychlosti YouTube",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Ovládejte rychlost přehrávání YouTube pomocí vlastních hodnot, klávesových zkratek a překrytí na obrazovce.",
+    "description": "Extension description"
+  }
+}

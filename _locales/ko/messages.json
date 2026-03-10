@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "YouTube 속도 컨트롤러",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "맞춤 값, 키보드 단축키, 화면 오버레이를 사용하여 YouTube 재생 속도를 제어하세요.",
+    "description": "Extension description"
+  }
+}

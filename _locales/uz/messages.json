@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "YouTube tezlik boshqaruvchisi",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Maxsus qiymatlar, klaviatura yorliqlari va ekrandagi qoplama yordamida YouTube ijro tezligini boshqaring.",
+    "description": "Extension description"
+  }
+}

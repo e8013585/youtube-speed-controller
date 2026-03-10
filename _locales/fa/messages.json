@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "کنترل کننده سرعت یوتیوب",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "سرعت پخش YouTube را با مقادیر سفارشی، میانبرهای صفحه کلید و پوشش روی صفحه کنترل کنید.",
+    "description": "Extension description"
+  }
+}

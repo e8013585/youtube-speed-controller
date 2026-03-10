@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "YouTube Speed ​​Controller",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Styr YouTubes uppspelningshastighet med anpassade värden, kortkommandon och överlägg på skärmen.",
+    "description": "Extension description"
+  }
+}

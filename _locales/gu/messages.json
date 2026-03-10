@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "YouTube સ્પીડ કંટ્રોલર",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "કસ્ટમ મૂલ્યો, કીબોર્ડ શૉર્ટકટ્સ અને ઑન-સ્ક્રીન ઓવરલે સાથે YouTube પ્લેબેક ઝડપને નિયંત્રિત કરો.",
+    "description": "Extension description"
+  }
+}

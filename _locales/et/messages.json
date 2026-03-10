@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "YouTube'i kiiruskontroller",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Hallake YouTube'i esituskiirust kohandatud väärtuste, klaviatuuri otseteede ja ekraani ülekattega.",
+    "description": "Extension description"
+  }
+}

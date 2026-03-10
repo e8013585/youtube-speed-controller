@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Contrôleur de vitesse YouTube",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Contrôlez la vitesse de lecture de YouTube avec des valeurs personnalisées, des raccourcis clavier et une superposition à l'écran.",
+    "description": "Extension description"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "यूट्यूब स्पीड नियंत्रक",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "कस्टम मानों, कीबोर्ड शॉर्टकट और ऑन-स्क्रीन ओवरले के साथ YouTube प्लेबैक गति को नियंत्रित करें।",
+    "description": "Extension description"
+  }
+}

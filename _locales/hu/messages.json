@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "YouTube sebességvezérlő",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Irányítsd a YouTube lejátszási sebességét egyéni értékekkel, billentyűparancsokkal és a képernyőn megjelenő fedéssel.",
+    "description": "Extension description"
+  }
+}

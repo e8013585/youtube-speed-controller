@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Ελεγκτής ταχύτητας YouTube",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Ελέγξτε την ταχύτητα αναπαραγωγής YouTube με προσαρμοσμένες τιμές, συντομεύσεις πληκτρολογίου και επικάλυψη στην οθόνη.",
+    "description": "Extension description"
+  }
+}

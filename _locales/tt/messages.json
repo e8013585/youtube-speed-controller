@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "YouTube тизлек контроллеры",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Гадәттәге кыйммәтләр, клавиатура кыска юллары һәм экранда каплау белән YouTube уйнау тизлеген контрольдә тотыгыз.",
+    "description": "Extension description"
+  }
+}

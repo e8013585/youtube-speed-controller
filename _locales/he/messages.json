@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "בקר מהירות של YouTube",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "שלוט במהירות ההפעלה של YouTube עם ערכים מותאמים אישית, קיצורי מקלדת ושכבת-על על המסך.",
+    "description": "Extension description"
+  }
+}

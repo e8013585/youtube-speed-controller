@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "YouTube ātruma kontrolieris",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Kontrolējiet YouTube atskaņošanas ātrumu, izmantojot pielāgotas vērtības, īsinājumtaustiņus un ekrāna pārklājumu.",
+    "description": "Extension description"
+  }
+}

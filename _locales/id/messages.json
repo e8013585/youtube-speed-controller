@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Pengontrol Kecepatan YouTube",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Kontrol kecepatan pemutaran YouTube dengan nilai khusus, pintasan keyboard, dan hamparan di layar.",
+    "description": "Extension description"
+  }
+}

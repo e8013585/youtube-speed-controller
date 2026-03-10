@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "YouTube kontroler brzine",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Upravljajte brzinom reprodukcije YouTubea pomoću prilagođenih vrijednosti, tipkovničkih prečaca i preklapanja na zaslonu.",
+    "description": "Extension description"
+  }
+}

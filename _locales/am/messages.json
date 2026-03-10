@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "የዩቲዩብ ፍጥነት መቆጣጠሪያ",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "የዩቲዩብን መልሶ ማጫወት ፍጥነት በብጁ እሴቶች፣ የቁልፍ ሰሌዳ አቋራጮች እና በስክሪኑ ላይ ተደራቢ ይቆጣጠሩ።",
+    "description": "Extension description"
+  }
+}

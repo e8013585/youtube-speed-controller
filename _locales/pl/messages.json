@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Kontroler prędkości YouTube",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Kontroluj prędkość odtwarzania YouTube za pomocą niestandardowych wartości, skrótów klawiaturowych i nakładek ekranowych.",
+    "description": "Extension description"
+  }
+}
